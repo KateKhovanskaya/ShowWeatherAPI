@@ -7,7 +7,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-//сделала Валерия Григорьева
 public class DesktopUI extends JFrame implements View {
 
     private JLabel lCity;
